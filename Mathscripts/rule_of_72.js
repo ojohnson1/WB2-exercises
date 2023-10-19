@@ -5,6 +5,6 @@ console.log (72/interestRate)
 
 
 
-console.log('At a ' + interestRate*100 + ' percent interest rate, your savings account will be worth ' + doubleAmt.toFixed (2) + " in " + 72/interestRate/100 + " years " );
+console.log('At a ' + interestRate*100 + ' percent interest rate, your savings account will be worth ' + doubleAmt.toFixed(2) + " in " + 72/interestRate/100 + " years " );
 
 
