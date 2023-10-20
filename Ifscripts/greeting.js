@@ -1,3 +1,5 @@
+"use strict"
+
 let currentHour = 14;
 let message ;
 if  (currentHour <= 10 )
